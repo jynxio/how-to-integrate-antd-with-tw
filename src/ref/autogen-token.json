@@ -1,0 +1,2816 @@
+[
+  {
+    "tokenName": "blue",
+    "varName": "--ant-blue",
+    "unitlessValue": "#1677FF",
+    "valueInUnit": "#1677FF"
+  },
+  {
+    "tokenName": "purple",
+    "varName": "--ant-purple",
+    "unitlessValue": "#722ED1",
+    "valueInUnit": "#722ED1"
+  },
+  {
+    "tokenName": "cyan",
+    "varName": "--ant-cyan",
+    "unitlessValue": "#13C2C2",
+    "valueInUnit": "#13C2C2"
+  },
+  {
+    "tokenName": "green",
+    "varName": "--ant-green",
+    "unitlessValue": "#52C41A",
+    "valueInUnit": "#52C41A"
+  },
+  {
+    "tokenName": "magenta",
+    "varName": "--ant-magenta",
+    "unitlessValue": "#EB2F96",
+    "valueInUnit": "#EB2F96"
+  },
+  {
+    "tokenName": "pink",
+    "varName": "--ant-pink",
+    "unitlessValue": "#EB2F96",
+    "valueInUnit": "#EB2F96"
+  },
+  {
+    "tokenName": "red",
+    "varName": "--ant-red",
+    "unitlessValue": "#F5222D",
+    "valueInUnit": "#F5222D"
+  },
+  {
+    "tokenName": "orange",
+    "varName": "--ant-orange",
+    "unitlessValue": "#FA8C16",
+    "valueInUnit": "#FA8C16"
+  },
+  {
+    "tokenName": "yellow",
+    "varName": "--ant-yellow",
+    "unitlessValue": "#FADB14",
+    "valueInUnit": "#FADB14"
+  },
+  {
+    "tokenName": "volcano",
+    "varName": "--ant-volcano",
+    "unitlessValue": "#FA541C",
+    "valueInUnit": "#FA541C"
+  },
+  {
+    "tokenName": "geekblue",
+    "varName": "--ant-geekblue",
+    "unitlessValue": "#2F54EB",
+    "valueInUnit": "#2F54EB"
+  },
+  {
+    "tokenName": "gold",
+    "varName": "--ant-gold",
+    "unitlessValue": "#FAAD14",
+    "valueInUnit": "#FAAD14"
+  },
+  {
+    "tokenName": "lime",
+    "varName": "--ant-lime",
+    "unitlessValue": "#A0D911",
+    "valueInUnit": "#A0D911"
+  },
+  {
+    "tokenName": "colorPrimary",
+    "varName": "--ant-color-primary",
+    "unitlessValue": "#1677ff",
+    "valueInUnit": "#1677ff"
+  },
+  {
+    "tokenName": "colorSuccess",
+    "varName": "--ant-color-success",
+    "unitlessValue": "#52c41a",
+    "valueInUnit": "#52c41a"
+  },
+  {
+    "tokenName": "colorWarning",
+    "varName": "--ant-color-warning",
+    "unitlessValue": "#faad14",
+    "valueInUnit": "#faad14"
+  },
+  {
+    "tokenName": "colorError",
+    "varName": "--ant-color-error",
+    "unitlessValue": "#ff4d4f",
+    "valueInUnit": "#ff4d4f"
+  },
+  {
+    "tokenName": "colorInfo",
+    "varName": "--ant-color-info",
+    "unitlessValue": "#1677ff",
+    "valueInUnit": "#1677ff"
+  },
+  {
+    "tokenName": "colorLink",
+    "varName": "--ant-color-link",
+    "unitlessValue": "#1677ff",
+    "valueInUnit": "#1677ff"
+  },
+  {
+    "tokenName": "colorTextBase",
+    "varName": "--ant-color-text-base",
+    "unitlessValue": "#000",
+    "valueInUnit": "#000"
+  },
+  {
+    "tokenName": "colorBgBase",
+    "varName": "--ant-color-bg-base",
+    "unitlessValue": "#fff",
+    "valueInUnit": "#fff"
+  },
+  {
+    "tokenName": "fontFamily",
+    "varName": "--ant-font-family",
+    "unitlessValue": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,\n'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',\n'Noto Color Emoji'",
+    "valueInUnit": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,\n'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',\n'Noto Color Emoji'"
+  },
+  {
+    "tokenName": "fontFamilyCode",
+    "varName": "--ant-font-family-code",
+    "unitlessValue": "'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace",
+    "valueInUnit": "'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace"
+  },
+  {
+    "tokenName": "fontSize",
+    "varName": "--ant-font-size",
+    "unitlessValue": 14,
+    "valueInUnit": "14px"
+  },
+  {
+    "tokenName": "lineWidth",
+    "varName": "--ant-line-width",
+    "unitlessValue": 1,
+    "valueInUnit": "1px"
+  },
+  {
+    "tokenName": "lineType",
+    "varName": "--ant-line-type",
+    "unitlessValue": "solid",
+    "valueInUnit": "solid"
+  },
+  {
+    "tokenName": "motionEaseOutCirc",
+    "varName": "--ant-motion-ease-out-circ",
+    "unitlessValue": "cubic-bezier(0.08, 0.82, 0.17, 1)",
+    "valueInUnit": "cubic-bezier(0.08, 0.82, 0.17, 1)"
+  },
+  {
+    "tokenName": "motionEaseInOutCirc",
+    "varName": "--ant-motion-ease-in-out-circ",
+    "unitlessValue": "cubic-bezier(0.78, 0.14, 0.15, 0.86)",
+    "valueInUnit": "cubic-bezier(0.78, 0.14, 0.15, 0.86)"
+  },
+  {
+    "tokenName": "motionEaseOut",
+    "varName": "--ant-motion-ease-out",
+    "unitlessValue": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+    "valueInUnit": "cubic-bezier(0.215, 0.61, 0.355, 1)"
+  },
+  {
+    "tokenName": "motionEaseInOut",
+    "varName": "--ant-motion-ease-in-out",
+    "unitlessValue": "cubic-bezier(0.645, 0.045, 0.355, 1)",
+    "valueInUnit": "cubic-bezier(0.645, 0.045, 0.355, 1)"
+  },
+  {
+    "tokenName": "motionEaseOutBack",
+    "varName": "--ant-motion-ease-out-back",
+    "unitlessValue": "cubic-bezier(0.12, 0.4, 0.29, 1.46)",
+    "valueInUnit": "cubic-bezier(0.12, 0.4, 0.29, 1.46)"
+  },
+  {
+    "tokenName": "motionEaseInBack",
+    "varName": "--ant-motion-ease-in-back",
+    "unitlessValue": "cubic-bezier(0.71, -0.46, 0.88, 0.6)",
+    "valueInUnit": "cubic-bezier(0.71, -0.46, 0.88, 0.6)"
+  },
+  {
+    "tokenName": "motionEaseInQuint",
+    "varName": "--ant-motion-ease-in-quint",
+    "unitlessValue": "cubic-bezier(0.755, 0.05, 0.855, 0.06)",
+    "valueInUnit": "cubic-bezier(0.755, 0.05, 0.855, 0.06)"
+  },
+  {
+    "tokenName": "motionEaseOutQuint",
+    "varName": "--ant-motion-ease-out-quint",
+    "unitlessValue": "cubic-bezier(0.23, 1, 0.32, 1)",
+    "valueInUnit": "cubic-bezier(0.23, 1, 0.32, 1)"
+  },
+  {
+    "tokenName": "borderRadius",
+    "varName": "--ant-border-radius",
+    "unitlessValue": 6,
+    "valueInUnit": "6px"
+  },
+  {
+    "tokenName": "sizePopupArrow",
+    "varName": "--ant-size-popup-arrow",
+    "unitlessValue": 16,
+    "valueInUnit": "16px"
+  },
+  {
+    "tokenName": "controlHeight",
+    "varName": "--ant-control-height",
+    "unitlessValue": 32,
+    "valueInUnit": "32px"
+  },
+  {
+    "tokenName": "zIndexBase",
+    "varName": "--ant-z-index-base",
+    "unitlessValue": 0,
+    "valueInUnit": "0"
+  },
+  {
+    "tokenName": "zIndexPopupBase",
+    "varName": "--ant-z-index-popup-base",
+    "unitlessValue": 1000,
+    "valueInUnit": "1000"
+  },
+  {
+    "tokenName": "opacityImage",
+    "varName": "--ant-opacity-image",
+    "unitlessValue": 1,
+    "valueInUnit": "1"
+  },
+  {
+    "tokenName": "blue-1",
+    "varName": "--ant-blue-1",
+    "unitlessValue": "#e6f4ff",
+    "valueInUnit": "#e6f4ff"
+  },
+  {
+    "tokenName": "blue1",
+    "varName": "--ant-blue-1",
+    "unitlessValue": "#e6f4ff",
+    "valueInUnit": "#e6f4ff"
+  },
+  {
+    "tokenName": "blue-2",
+    "varName": "--ant-blue-2",
+    "unitlessValue": "#bae0ff",
+    "valueInUnit": "#bae0ff"
+  },
+  {
+    "tokenName": "blue2",
+    "varName": "--ant-blue-2",
+    "unitlessValue": "#bae0ff",
+    "valueInUnit": "#bae0ff"
+  },
+  {
+    "tokenName": "blue-3",
+    "varName": "--ant-blue-3",
+    "unitlessValue": "#91caff",
+    "valueInUnit": "#91caff"
+  },
+  {
+    "tokenName": "blue3",
+    "varName": "--ant-blue-3",
+    "unitlessValue": "#91caff",
+    "valueInUnit": "#91caff"
+  },
+  {
+    "tokenName": "blue-4",
+    "varName": "--ant-blue-4",
+    "unitlessValue": "#69b1ff",
+    "valueInUnit": "#69b1ff"
+  },
+  {
+    "tokenName": "blue4",
+    "varName": "--ant-blue-4",
+    "unitlessValue": "#69b1ff",
+    "valueInUnit": "#69b1ff"
+  },
+  {
+    "tokenName": "blue-5",
+    "varName": "--ant-blue-5",
+    "unitlessValue": "#4096ff",
+    "valueInUnit": "#4096ff"
+  },
+  {
+    "tokenName": "blue5",
+    "varName": "--ant-blue-5",
+    "unitlessValue": "#4096ff",
+    "valueInUnit": "#4096ff"
+  },
+  {
+    "tokenName": "blue-6",
+    "varName": "--ant-blue-6",
+    "unitlessValue": "#1677ff",
+    "valueInUnit": "#1677ff"
+  },
+  {
+    "tokenName": "blue6",
+    "varName": "--ant-blue-6",
+    "unitlessValue": "#1677ff",
+    "valueInUnit": "#1677ff"
+  },
+  {
+    "tokenName": "blue-7",
+    "varName": "--ant-blue-7",
+    "unitlessValue": "#0958d9",
+    "valueInUnit": "#0958d9"
+  },
+  {
+    "tokenName": "blue7",
+    "varName": "--ant-blue-7",
+    "unitlessValue": "#0958d9",
+    "valueInUnit": "#0958d9"
+  },
+  {
+    "tokenName": "blue-8",
+    "varName": "--ant-blue-8",
+    "unitlessValue": "#003eb3",
+    "valueInUnit": "#003eb3"
+  },
+  {
+    "tokenName": "blue8",
+    "varName": "--ant-blue-8",
+    "unitlessValue": "#003eb3",
+    "valueInUnit": "#003eb3"
+  },
+  {
+    "tokenName": "blue-9",
+    "varName": "--ant-blue-9",
+    "unitlessValue": "#002c8c",
+    "valueInUnit": "#002c8c"
+  },
+  {
+    "tokenName": "blue9",
+    "varName": "--ant-blue-9",
+    "unitlessValue": "#002c8c",
+    "valueInUnit": "#002c8c"
+  },
+  {
+    "tokenName": "blue-10",
+    "varName": "--ant-blue-10",
+    "unitlessValue": "#001d66",
+    "valueInUnit": "#001d66"
+  },
+  {
+    "tokenName": "blue10",
+    "varName": "--ant-blue-10",
+    "unitlessValue": "#001d66",
+    "valueInUnit": "#001d66"
+  },
+  {
+    "tokenName": "purple-1",
+    "varName": "--ant-purple-1",
+    "unitlessValue": "#f9f0ff",
+    "valueInUnit": "#f9f0ff"
+  },
+  {
+    "tokenName": "purple1",
+    "varName": "--ant-purple-1",
+    "unitlessValue": "#f9f0ff",
+    "valueInUnit": "#f9f0ff"
+  },
+  {
+    "tokenName": "purple-2",
+    "varName": "--ant-purple-2",
+    "unitlessValue": "#efdbff",
+    "valueInUnit": "#efdbff"
+  },
+  {
+    "tokenName": "purple2",
+    "varName": "--ant-purple-2",
+    "unitlessValue": "#efdbff",
+    "valueInUnit": "#efdbff"
+  },
+  {
+    "tokenName": "purple-3",
+    "varName": "--ant-purple-3",
+    "unitlessValue": "#d3adf7",
+    "valueInUnit": "#d3adf7"
+  },
+  {
+    "tokenName": "purple3",
+    "varName": "--ant-purple-3",
+    "unitlessValue": "#d3adf7",
+    "valueInUnit": "#d3adf7"
+  },
+  {
+    "tokenName": "purple-4",
+    "varName": "--ant-purple-4",
+    "unitlessValue": "#b37feb",
+    "valueInUnit": "#b37feb"
+  },
+  {
+    "tokenName": "purple4",
+    "varName": "--ant-purple-4",
+    "unitlessValue": "#b37feb",
+    "valueInUnit": "#b37feb"
+  },
+  {
+    "tokenName": "purple-5",
+    "varName": "--ant-purple-5",
+    "unitlessValue": "#9254de",
+    "valueInUnit": "#9254de"
+  },
+  {
+    "tokenName": "purple5",
+    "varName": "--ant-purple-5",
+    "unitlessValue": "#9254de",
+    "valueInUnit": "#9254de"
+  },
+  {
+    "tokenName": "purple-6",
+    "varName": "--ant-purple-6",
+    "unitlessValue": "#722ed1",
+    "valueInUnit": "#722ed1"
+  },
+  {
+    "tokenName": "purple6",
+    "varName": "--ant-purple-6",
+    "unitlessValue": "#722ed1",
+    "valueInUnit": "#722ed1"
+  },
+  {
+    "tokenName": "purple-7",
+    "varName": "--ant-purple-7",
+    "unitlessValue": "#531dab",
+    "valueInUnit": "#531dab"
+  },
+  {
+    "tokenName": "purple7",
+    "varName": "--ant-purple-7",
+    "unitlessValue": "#531dab",
+    "valueInUnit": "#531dab"
+  },
+  {
+    "tokenName": "purple-8",
+    "varName": "--ant-purple-8",
+    "unitlessValue": "#391085",
+    "valueInUnit": "#391085"
+  },
+  {
+    "tokenName": "purple8",
+    "varName": "--ant-purple-8",
+    "unitlessValue": "#391085",
+    "valueInUnit": "#391085"
+  },
+  {
+    "tokenName": "purple-9",
+    "varName": "--ant-purple-9",
+    "unitlessValue": "#22075e",
+    "valueInUnit": "#22075e"
+  },
+  {
+    "tokenName": "purple9",
+    "varName": "--ant-purple-9",
+    "unitlessValue": "#22075e",
+    "valueInUnit": "#22075e"
+  },
+  {
+    "tokenName": "purple-10",
+    "varName": "--ant-purple-10",
+    "unitlessValue": "#120338",
+    "valueInUnit": "#120338"
+  },
+  {
+    "tokenName": "purple10",
+    "varName": "--ant-purple-10",
+    "unitlessValue": "#120338",
+    "valueInUnit": "#120338"
+  },
+  {
+    "tokenName": "cyan-1",
+    "varName": "--ant-cyan-1",
+    "unitlessValue": "#e6fffb",
+    "valueInUnit": "#e6fffb"
+  },
+  {
+    "tokenName": "cyan1",
+    "varName": "--ant-cyan-1",
+    "unitlessValue": "#e6fffb",
+    "valueInUnit": "#e6fffb"
+  },
+  {
+    "tokenName": "cyan-2",
+    "varName": "--ant-cyan-2",
+    "unitlessValue": "#b5f5ec",
+    "valueInUnit": "#b5f5ec"
+  },
+  {
+    "tokenName": "cyan2",
+    "varName": "--ant-cyan-2",
+    "unitlessValue": "#b5f5ec",
+    "valueInUnit": "#b5f5ec"
+  },
+  {
+    "tokenName": "cyan-3",
+    "varName": "--ant-cyan-3",
+    "unitlessValue": "#87e8de",
+    "valueInUnit": "#87e8de"
+  },
+  {
+    "tokenName": "cyan3",
+    "varName": "--ant-cyan-3",
+    "unitlessValue": "#87e8de",
+    "valueInUnit": "#87e8de"
+  },
+  {
+    "tokenName": "cyan-4",
+    "varName": "--ant-cyan-4",
+    "unitlessValue": "#5cdbd3",
+    "valueInUnit": "#5cdbd3"
+  },
+  {
+    "tokenName": "cyan4",
+    "varName": "--ant-cyan-4",
+    "unitlessValue": "#5cdbd3",
+    "valueInUnit": "#5cdbd3"
+  },
+  {
+    "tokenName": "cyan-5",
+    "varName": "--ant-cyan-5",
+    "unitlessValue": "#36cfc9",
+    "valueInUnit": "#36cfc9"
+  },
+  {
+    "tokenName": "cyan5",
+    "varName": "--ant-cyan-5",
+    "unitlessValue": "#36cfc9",
+    "valueInUnit": "#36cfc9"
+  },
+  {
+    "tokenName": "cyan-6",
+    "varName": "--ant-cyan-6",
+    "unitlessValue": "#13c2c2",
+    "valueInUnit": "#13c2c2"
+  },
+  {
+    "tokenName": "cyan6",
+    "varName": "--ant-cyan-6",
+    "unitlessValue": "#13c2c2",
+    "valueInUnit": "#13c2c2"
+  },
+  {
+    "tokenName": "cyan-7",
+    "varName": "--ant-cyan-7",
+    "unitlessValue": "#08979c",
+    "valueInUnit": "#08979c"
+  },
+  {
+    "tokenName": "cyan7",
+    "varName": "--ant-cyan-7",
+    "unitlessValue": "#08979c",
+    "valueInUnit": "#08979c"
+  },
+  {
+    "tokenName": "cyan-8",
+    "varName": "--ant-cyan-8",
+    "unitlessValue": "#006d75",
+    "valueInUnit": "#006d75"
+  },
+  {
+    "tokenName": "cyan8",
+    "varName": "--ant-cyan-8",
+    "unitlessValue": "#006d75",
+    "valueInUnit": "#006d75"
+  },
+  {
+    "tokenName": "cyan-9",
+    "varName": "--ant-cyan-9",
+    "unitlessValue": "#00474f",
+    "valueInUnit": "#00474f"
+  },
+  {
+    "tokenName": "cyan9",
+    "varName": "--ant-cyan-9",
+    "unitlessValue": "#00474f",
+    "valueInUnit": "#00474f"
+  },
+  {
+    "tokenName": "cyan-10",
+    "varName": "--ant-cyan-10",
+    "unitlessValue": "#002329",
+    "valueInUnit": "#002329"
+  },
+  {
+    "tokenName": "cyan10",
+    "varName": "--ant-cyan-10",
+    "unitlessValue": "#002329",
+    "valueInUnit": "#002329"
+  },
+  {
+    "tokenName": "green-1",
+    "varName": "--ant-green-1",
+    "unitlessValue": "#f6ffed",
+    "valueInUnit": "#f6ffed"
+  },
+  {
+    "tokenName": "green1",
+    "varName": "--ant-green-1",
+    "unitlessValue": "#f6ffed",
+    "valueInUnit": "#f6ffed"
+  },
+  {
+    "tokenName": "green-2",
+    "varName": "--ant-green-2",
+    "unitlessValue": "#d9f7be",
+    "valueInUnit": "#d9f7be"
+  },
+  {
+    "tokenName": "green2",
+    "varName": "--ant-green-2",
+    "unitlessValue": "#d9f7be",
+    "valueInUnit": "#d9f7be"
+  },
+  {
+    "tokenName": "green-3",
+    "varName": "--ant-green-3",
+    "unitlessValue": "#b7eb8f",
+    "valueInUnit": "#b7eb8f"
+  },
+  {
+    "tokenName": "green3",
+    "varName": "--ant-green-3",
+    "unitlessValue": "#b7eb8f",
+    "valueInUnit": "#b7eb8f"
+  },
+  {
+    "tokenName": "green-4",
+    "varName": "--ant-green-4",
+    "unitlessValue": "#95de64",
+    "valueInUnit": "#95de64"
+  },
+  {
+    "tokenName": "green4",
+    "varName": "--ant-green-4",
+    "unitlessValue": "#95de64",
+    "valueInUnit": "#95de64"
+  },
+  {
+    "tokenName": "green-5",
+    "varName": "--ant-green-5",
+    "unitlessValue": "#73d13d",
+    "valueInUnit": "#73d13d"
+  },
+  {
+    "tokenName": "green5",
+    "varName": "--ant-green-5",
+    "unitlessValue": "#73d13d",
+    "valueInUnit": "#73d13d"
+  },
+  {
+    "tokenName": "green-6",
+    "varName": "--ant-green-6",
+    "unitlessValue": "#52c41a",
+    "valueInUnit": "#52c41a"
+  },
+  {
+    "tokenName": "green6",
+    "varName": "--ant-green-6",
+    "unitlessValue": "#52c41a",
+    "valueInUnit": "#52c41a"
+  },
+  {
+    "tokenName": "green-7",
+    "varName": "--ant-green-7",
+    "unitlessValue": "#389e0d",
+    "valueInUnit": "#389e0d"
+  },
+  {
+    "tokenName": "green7",
+    "varName": "--ant-green-7",
+    "unitlessValue": "#389e0d",
+    "valueInUnit": "#389e0d"
+  },
+  {
+    "tokenName": "green-8",
+    "varName": "--ant-green-8",
+    "unitlessValue": "#237804",
+    "valueInUnit": "#237804"
+  },
+  {
+    "tokenName": "green8",
+    "varName": "--ant-green-8",
+    "unitlessValue": "#237804",
+    "valueInUnit": "#237804"
+  },
+  {
+    "tokenName": "green-9",
+    "varName": "--ant-green-9",
+    "unitlessValue": "#135200",
+    "valueInUnit": "#135200"
+  },
+  {
+    "tokenName": "green9",
+    "varName": "--ant-green-9",
+    "unitlessValue": "#135200",
+    "valueInUnit": "#135200"
+  },
+  {
+    "tokenName": "green-10",
+    "varName": "--ant-green-10",
+    "unitlessValue": "#092b00",
+    "valueInUnit": "#092b00"
+  },
+  {
+    "tokenName": "green10",
+    "varName": "--ant-green-10",
+    "unitlessValue": "#092b00",
+    "valueInUnit": "#092b00"
+  },
+  {
+    "tokenName": "magenta-1",
+    "varName": "--ant-magenta-1",
+    "unitlessValue": "#fff0f6",
+    "valueInUnit": "#fff0f6"
+  },
+  {
+    "tokenName": "magenta1",
+    "varName": "--ant-magenta-1",
+    "unitlessValue": "#fff0f6",
+    "valueInUnit": "#fff0f6"
+  },
+  {
+    "tokenName": "magenta-2",
+    "varName": "--ant-magenta-2",
+    "unitlessValue": "#ffd6e7",
+    "valueInUnit": "#ffd6e7"
+  },
+  {
+    "tokenName": "magenta2",
+    "varName": "--ant-magenta-2",
+    "unitlessValue": "#ffd6e7",
+    "valueInUnit": "#ffd6e7"
+  },
+  {
+    "tokenName": "magenta-3",
+    "varName": "--ant-magenta-3",
+    "unitlessValue": "#ffadd2",
+    "valueInUnit": "#ffadd2"
+  },
+  {
+    "tokenName": "magenta3",
+    "varName": "--ant-magenta-3",
+    "unitlessValue": "#ffadd2",
+    "valueInUnit": "#ffadd2"
+  },
+  {
+    "tokenName": "magenta-4",
+    "varName": "--ant-magenta-4",
+    "unitlessValue": "#ff85c0",
+    "valueInUnit": "#ff85c0"
+  },
+  {
+    "tokenName": "magenta4",
+    "varName": "--ant-magenta-4",
+    "unitlessValue": "#ff85c0",
+    "valueInUnit": "#ff85c0"
+  },
+  {
+    "tokenName": "magenta-5",
+    "varName": "--ant-magenta-5",
+    "unitlessValue": "#f759ab",
+    "valueInUnit": "#f759ab"
+  },
+  {
+    "tokenName": "magenta5",
+    "varName": "--ant-magenta-5",
+    "unitlessValue": "#f759ab",
+    "valueInUnit": "#f759ab"
+  },
+  {
+    "tokenName": "magenta-6",
+    "varName": "--ant-magenta-6",
+    "unitlessValue": "#eb2f96",
+    "valueInUnit": "#eb2f96"
+  },
+  {
+    "tokenName": "magenta6",
+    "varName": "--ant-magenta-6",
+    "unitlessValue": "#eb2f96",
+    "valueInUnit": "#eb2f96"
+  },
+  {
+    "tokenName": "magenta-7",
+    "varName": "--ant-magenta-7",
+    "unitlessValue": "#c41d7f",
+    "valueInUnit": "#c41d7f"
+  },
+  {
+    "tokenName": "magenta7",
+    "varName": "--ant-magenta-7",
+    "unitlessValue": "#c41d7f",
+    "valueInUnit": "#c41d7f"
+  },
+  {
+    "tokenName": "magenta-8",
+    "varName": "--ant-magenta-8",
+    "unitlessValue": "#9e1068",
+    "valueInUnit": "#9e1068"
+  },
+  {
+    "tokenName": "magenta8",
+    "varName": "--ant-magenta-8",
+    "unitlessValue": "#9e1068",
+    "valueInUnit": "#9e1068"
+  },
+  {
+    "tokenName": "magenta-9",
+    "varName": "--ant-magenta-9",
+    "unitlessValue": "#780650",
+    "valueInUnit": "#780650"
+  },
+  {
+    "tokenName": "magenta9",
+    "varName": "--ant-magenta-9",
+    "unitlessValue": "#780650",
+    "valueInUnit": "#780650"
+  },
+  {
+    "tokenName": "magenta-10",
+    "varName": "--ant-magenta-10",
+    "unitlessValue": "#520339",
+    "valueInUnit": "#520339"
+  },
+  {
+    "tokenName": "magenta10",
+    "varName": "--ant-magenta-10",
+    "unitlessValue": "#520339",
+    "valueInUnit": "#520339"
+  },
+  {
+    "tokenName": "pink-1",
+    "varName": "--ant-pink-1",
+    "unitlessValue": "#fff0f6",
+    "valueInUnit": "#fff0f6"
+  },
+  {
+    "tokenName": "pink1",
+    "varName": "--ant-pink-1",
+    "unitlessValue": "#fff0f6",
+    "valueInUnit": "#fff0f6"
+  },
+  {
+    "tokenName": "pink-2",
+    "varName": "--ant-pink-2",
+    "unitlessValue": "#ffd6e7",
+    "valueInUnit": "#ffd6e7"
+  },
+  {
+    "tokenName": "pink2",
+    "varName": "--ant-pink-2",
+    "unitlessValue": "#ffd6e7",
+    "valueInUnit": "#ffd6e7"
+  },
+  {
+    "tokenName": "pink-3",
+    "varName": "--ant-pink-3",
+    "unitlessValue": "#ffadd2",
+    "valueInUnit": "#ffadd2"
+  },
+  {
+    "tokenName": "pink3",
+    "varName": "--ant-pink-3",
+    "unitlessValue": "#ffadd2",
+    "valueInUnit": "#ffadd2"
+  },
+  {
+    "tokenName": "pink-4",
+    "varName": "--ant-pink-4",
+    "unitlessValue": "#ff85c0",
+    "valueInUnit": "#ff85c0"
+  },
+  {
+    "tokenName": "pink4",
+    "varName": "--ant-pink-4",
+    "unitlessValue": "#ff85c0",
+    "valueInUnit": "#ff85c0"
+  },
+  {
+    "tokenName": "pink-5",
+    "varName": "--ant-pink-5",
+    "unitlessValue": "#f759ab",
+    "valueInUnit": "#f759ab"
+  },
+  {
+    "tokenName": "pink5",
+    "varName": "--ant-pink-5",
+    "unitlessValue": "#f759ab",
+    "valueInUnit": "#f759ab"
+  },
+  {
+    "tokenName": "pink-6",
+    "varName": "--ant-pink-6",
+    "unitlessValue": "#eb2f96",
+    "valueInUnit": "#eb2f96"
+  },
+  {
+    "tokenName": "pink6",
+    "varName": "--ant-pink-6",
+    "unitlessValue": "#eb2f96",
+    "valueInUnit": "#eb2f96"
+  },
+  {
+    "tokenName": "pink-7",
+    "varName": "--ant-pink-7",
+    "unitlessValue": "#c41d7f",
+    "valueInUnit": "#c41d7f"
+  },
+  {
+    "tokenName": "pink7",
+    "varName": "--ant-pink-7",
+    "unitlessValue": "#c41d7f",
+    "valueInUnit": "#c41d7f"
+  },
+  {
+    "tokenName": "pink-8",
+    "varName": "--ant-pink-8",
+    "unitlessValue": "#9e1068",
+    "valueInUnit": "#9e1068"
+  },
+  {
+    "tokenName": "pink8",
+    "varName": "--ant-pink-8",
+    "unitlessValue": "#9e1068",
+    "valueInUnit": "#9e1068"
+  },
+  {
+    "tokenName": "pink-9",
+    "varName": "--ant-pink-9",
+    "unitlessValue": "#780650",
+    "valueInUnit": "#780650"
+  },
+  {
+    "tokenName": "pink9",
+    "varName": "--ant-pink-9",
+    "unitlessValue": "#780650",
+    "valueInUnit": "#780650"
+  },
+  {
+    "tokenName": "pink-10",
+    "varName": "--ant-pink-10",
+    "unitlessValue": "#520339",
+    "valueInUnit": "#520339"
+  },
+  {
+    "tokenName": "pink10",
+    "varName": "--ant-pink-10",
+    "unitlessValue": "#520339",
+    "valueInUnit": "#520339"
+  },
+  {
+    "tokenName": "red-1",
+    "varName": "--ant-red-1",
+    "unitlessValue": "#fff1f0",
+    "valueInUnit": "#fff1f0"
+  },
+  {
+    "tokenName": "red1",
+    "varName": "--ant-red-1",
+    "unitlessValue": "#fff1f0",
+    "valueInUnit": "#fff1f0"
+  },
+  {
+    "tokenName": "red-2",
+    "varName": "--ant-red-2",
+    "unitlessValue": "#ffccc7",
+    "valueInUnit": "#ffccc7"
+  },
+  {
+    "tokenName": "red2",
+    "varName": "--ant-red-2",
+    "unitlessValue": "#ffccc7",
+    "valueInUnit": "#ffccc7"
+  },
+  {
+    "tokenName": "red-3",
+    "varName": "--ant-red-3",
+    "unitlessValue": "#ffa39e",
+    "valueInUnit": "#ffa39e"
+  },
+  {
+    "tokenName": "red3",
+    "varName": "--ant-red-3",
+    "unitlessValue": "#ffa39e",
+    "valueInUnit": "#ffa39e"
+  },
+  {
+    "tokenName": "red-4",
+    "varName": "--ant-red-4",
+    "unitlessValue": "#ff7875",
+    "valueInUnit": "#ff7875"
+  },
+  {
+    "tokenName": "red4",
+    "varName": "--ant-red-4",
+    "unitlessValue": "#ff7875",
+    "valueInUnit": "#ff7875"
+  },
+  {
+    "tokenName": "red-5",
+    "varName": "--ant-red-5",
+    "unitlessValue": "#ff4d4f",
+    "valueInUnit": "#ff4d4f"
+  },
+  {
+    "tokenName": "red5",
+    "varName": "--ant-red-5",
+    "unitlessValue": "#ff4d4f",
+    "valueInUnit": "#ff4d4f"
+  },
+  {
+    "tokenName": "red-6",
+    "varName": "--ant-red-6",
+    "unitlessValue": "#f5222d",
+    "valueInUnit": "#f5222d"
+  },
+  {
+    "tokenName": "red6",
+    "varName": "--ant-red-6",
+    "unitlessValue": "#f5222d",
+    "valueInUnit": "#f5222d"
+  },
+  {
+    "tokenName": "red-7",
+    "varName": "--ant-red-7",
+    "unitlessValue": "#cf1322",
+    "valueInUnit": "#cf1322"
+  },
+  {
+    "tokenName": "red7",
+    "varName": "--ant-red-7",
+    "unitlessValue": "#cf1322",
+    "valueInUnit": "#cf1322"
+  },
+  {
+    "tokenName": "red-8",
+    "varName": "--ant-red-8",
+    "unitlessValue": "#a8071a",
+    "valueInUnit": "#a8071a"
+  },
+  {
+    "tokenName": "red8",
+    "varName": "--ant-red-8",
+    "unitlessValue": "#a8071a",
+    "valueInUnit": "#a8071a"
+  },
+  {
+    "tokenName": "red-9",
+    "varName": "--ant-red-9",
+    "unitlessValue": "#820014",
+    "valueInUnit": "#820014"
+  },
+  {
+    "tokenName": "red9",
+    "varName": "--ant-red-9",
+    "unitlessValue": "#820014",
+    "valueInUnit": "#820014"
+  },
+  {
+    "tokenName": "red-10",
+    "varName": "--ant-red-10",
+    "unitlessValue": "#5c0011",
+    "valueInUnit": "#5c0011"
+  },
+  {
+    "tokenName": "red10",
+    "varName": "--ant-red-10",
+    "unitlessValue": "#5c0011",
+    "valueInUnit": "#5c0011"
+  },
+  {
+    "tokenName": "orange-1",
+    "varName": "--ant-orange-1",
+    "unitlessValue": "#fff7e6",
+    "valueInUnit": "#fff7e6"
+  },
+  {
+    "tokenName": "orange1",
+    "varName": "--ant-orange-1",
+    "unitlessValue": "#fff7e6",
+    "valueInUnit": "#fff7e6"
+  },
+  {
+    "tokenName": "orange-2",
+    "varName": "--ant-orange-2",
+    "unitlessValue": "#ffe7ba",
+    "valueInUnit": "#ffe7ba"
+  },
+  {
+    "tokenName": "orange2",
+    "varName": "--ant-orange-2",
+    "unitlessValue": "#ffe7ba",
+    "valueInUnit": "#ffe7ba"
+  },
+  {
+    "tokenName": "orange-3",
+    "varName": "--ant-orange-3",
+    "unitlessValue": "#ffd591",
+    "valueInUnit": "#ffd591"
+  },
+  {
+    "tokenName": "orange3",
+    "varName": "--ant-orange-3",
+    "unitlessValue": "#ffd591",
+    "valueInUnit": "#ffd591"
+  },
+  {
+    "tokenName": "orange-4",
+    "varName": "--ant-orange-4",
+    "unitlessValue": "#ffc069",
+    "valueInUnit": "#ffc069"
+  },
+  {
+    "tokenName": "orange4",
+    "varName": "--ant-orange-4",
+    "unitlessValue": "#ffc069",
+    "valueInUnit": "#ffc069"
+  },
+  {
+    "tokenName": "orange-5",
+    "varName": "--ant-orange-5",
+    "unitlessValue": "#ffa940",
+    "valueInUnit": "#ffa940"
+  },
+  {
+    "tokenName": "orange5",
+    "varName": "--ant-orange-5",
+    "unitlessValue": "#ffa940",
+    "valueInUnit": "#ffa940"
+  },
+  {
+    "tokenName": "orange-6",
+    "varName": "--ant-orange-6",
+    "unitlessValue": "#fa8c16",
+    "valueInUnit": "#fa8c16"
+  },
+  {
+    "tokenName": "orange6",
+    "varName": "--ant-orange-6",
+    "unitlessValue": "#fa8c16",
+    "valueInUnit": "#fa8c16"
+  },
+  {
+    "tokenName": "orange-7",
+    "varName": "--ant-orange-7",
+    "unitlessValue": "#d46b08",
+    "valueInUnit": "#d46b08"
+  },
+  {
+    "tokenName": "orange7",
+    "varName": "--ant-orange-7",
+    "unitlessValue": "#d46b08",
+    "valueInUnit": "#d46b08"
+  },
+  {
+    "tokenName": "orange-8",
+    "varName": "--ant-orange-8",
+    "unitlessValue": "#ad4e00",
+    "valueInUnit": "#ad4e00"
+  },
+  {
+    "tokenName": "orange8",
+    "varName": "--ant-orange-8",
+    "unitlessValue": "#ad4e00",
+    "valueInUnit": "#ad4e00"
+  },
+  {
+    "tokenName": "orange-9",
+    "varName": "--ant-orange-9",
+    "unitlessValue": "#873800",
+    "valueInUnit": "#873800"
+  },
+  {
+    "tokenName": "orange9",
+    "varName": "--ant-orange-9",
+    "unitlessValue": "#873800",
+    "valueInUnit": "#873800"
+  },
+  {
+    "tokenName": "orange-10",
+    "varName": "--ant-orange-10",
+    "unitlessValue": "#612500",
+    "valueInUnit": "#612500"
+  },
+  {
+    "tokenName": "orange10",
+    "varName": "--ant-orange-10",
+    "unitlessValue": "#612500",
+    "valueInUnit": "#612500"
+  },
+  {
+    "tokenName": "yellow-1",
+    "varName": "--ant-yellow-1",
+    "unitlessValue": "#feffe6",
+    "valueInUnit": "#feffe6"
+  },
+  {
+    "tokenName": "yellow1",
+    "varName": "--ant-yellow-1",
+    "unitlessValue": "#feffe6",
+    "valueInUnit": "#feffe6"
+  },
+  {
+    "tokenName": "yellow-2",
+    "varName": "--ant-yellow-2",
+    "unitlessValue": "#ffffb8",
+    "valueInUnit": "#ffffb8"
+  },
+  {
+    "tokenName": "yellow2",
+    "varName": "--ant-yellow-2",
+    "unitlessValue": "#ffffb8",
+    "valueInUnit": "#ffffb8"
+  },
+  {
+    "tokenName": "yellow-3",
+    "varName": "--ant-yellow-3",
+    "unitlessValue": "#fffb8f",
+    "valueInUnit": "#fffb8f"
+  },
+  {
+    "tokenName": "yellow3",
+    "varName": "--ant-yellow-3",
+    "unitlessValue": "#fffb8f",
+    "valueInUnit": "#fffb8f"
+  },
+  {
+    "tokenName": "yellow-4",
+    "varName": "--ant-yellow-4",
+    "unitlessValue": "#fff566",
+    "valueInUnit": "#fff566"
+  },
+  {
+    "tokenName": "yellow4",
+    "varName": "--ant-yellow-4",
+    "unitlessValue": "#fff566",
+    "valueInUnit": "#fff566"
+  },
+  {
+    "tokenName": "yellow-5",
+    "varName": "--ant-yellow-5",
+    "unitlessValue": "#ffec3d",
+    "valueInUnit": "#ffec3d"
+  },
+  {
+    "tokenName": "yellow5",
+    "varName": "--ant-yellow-5",
+    "unitlessValue": "#ffec3d",
+    "valueInUnit": "#ffec3d"
+  },
+  {
+    "tokenName": "yellow-6",
+    "varName": "--ant-yellow-6",
+    "unitlessValue": "#fadb14",
+    "valueInUnit": "#fadb14"
+  },
+  {
+    "tokenName": "yellow6",
+    "varName": "--ant-yellow-6",
+    "unitlessValue": "#fadb14",
+    "valueInUnit": "#fadb14"
+  },
+  {
+    "tokenName": "yellow-7",
+    "varName": "--ant-yellow-7",
+    "unitlessValue": "#d4b106",
+    "valueInUnit": "#d4b106"
+  },
+  {
+    "tokenName": "yellow7",
+    "varName": "--ant-yellow-7",
+    "unitlessValue": "#d4b106",
+    "valueInUnit": "#d4b106"
+  },
+  {
+    "tokenName": "yellow-8",
+    "varName": "--ant-yellow-8",
+    "unitlessValue": "#ad8b00",
+    "valueInUnit": "#ad8b00"
+  },
+  {
+    "tokenName": "yellow8",
+    "varName": "--ant-yellow-8",
+    "unitlessValue": "#ad8b00",
+    "valueInUnit": "#ad8b00"
+  },
+  {
+    "tokenName": "yellow-9",
+    "varName": "--ant-yellow-9",
+    "unitlessValue": "#876800",
+    "valueInUnit": "#876800"
+  },
+  {
+    "tokenName": "yellow9",
+    "varName": "--ant-yellow-9",
+    "unitlessValue": "#876800",
+    "valueInUnit": "#876800"
+  },
+  {
+    "tokenName": "yellow-10",
+    "varName": "--ant-yellow-10",
+    "unitlessValue": "#614700",
+    "valueInUnit": "#614700"
+  },
+  {
+    "tokenName": "yellow10",
+    "varName": "--ant-yellow-10",
+    "unitlessValue": "#614700",
+    "valueInUnit": "#614700"
+  },
+  {
+    "tokenName": "volcano-1",
+    "varName": "--ant-volcano-1",
+    "unitlessValue": "#fff2e8",
+    "valueInUnit": "#fff2e8"
+  },
+  {
+    "tokenName": "volcano1",
+    "varName": "--ant-volcano-1",
+    "unitlessValue": "#fff2e8",
+    "valueInUnit": "#fff2e8"
+  },
+  {
+    "tokenName": "volcano-2",
+    "varName": "--ant-volcano-2",
+    "unitlessValue": "#ffd8bf",
+    "valueInUnit": "#ffd8bf"
+  },
+  {
+    "tokenName": "volcano2",
+    "varName": "--ant-volcano-2",
+    "unitlessValue": "#ffd8bf",
+    "valueInUnit": "#ffd8bf"
+  },
+  {
+    "tokenName": "volcano-3",
+    "varName": "--ant-volcano-3",
+    "unitlessValue": "#ffbb96",
+    "valueInUnit": "#ffbb96"
+  },
+  {
+    "tokenName": "volcano3",
+    "varName": "--ant-volcano-3",
+    "unitlessValue": "#ffbb96",
+    "valueInUnit": "#ffbb96"
+  },
+  {
+    "tokenName": "volcano-4",
+    "varName": "--ant-volcano-4",
+    "unitlessValue": "#ff9c6e",
+    "valueInUnit": "#ff9c6e"
+  },
+  {
+    "tokenName": "volcano4",
+    "varName": "--ant-volcano-4",
+    "unitlessValue": "#ff9c6e",
+    "valueInUnit": "#ff9c6e"
+  },
+  {
+    "tokenName": "volcano-5",
+    "varName": "--ant-volcano-5",
+    "unitlessValue": "#ff7a45",
+    "valueInUnit": "#ff7a45"
+  },
+  {
+    "tokenName": "volcano5",
+    "varName": "--ant-volcano-5",
+    "unitlessValue": "#ff7a45",
+    "valueInUnit": "#ff7a45"
+  },
+  {
+    "tokenName": "volcano-6",
+    "varName": "--ant-volcano-6",
+    "unitlessValue": "#fa541c",
+    "valueInUnit": "#fa541c"
+  },
+  {
+    "tokenName": "volcano6",
+    "varName": "--ant-volcano-6",
+    "unitlessValue": "#fa541c",
+    "valueInUnit": "#fa541c"
+  },
+  {
+    "tokenName": "volcano-7",
+    "varName": "--ant-volcano-7",
+    "unitlessValue": "#d4380d",
+    "valueInUnit": "#d4380d"
+  },
+  {
+    "tokenName": "volcano7",
+    "varName": "--ant-volcano-7",
+    "unitlessValue": "#d4380d",
+    "valueInUnit": "#d4380d"
+  },
+  {
+    "tokenName": "volcano-8",
+    "varName": "--ant-volcano-8",
+    "unitlessValue": "#ad2102",
+    "valueInUnit": "#ad2102"
+  },
+  {
+    "tokenName": "volcano8",
+    "varName": "--ant-volcano-8",
+    "unitlessValue": "#ad2102",
+    "valueInUnit": "#ad2102"
+  },
+  {
+    "tokenName": "volcano-9",
+    "varName": "--ant-volcano-9",
+    "unitlessValue": "#871400",
+    "valueInUnit": "#871400"
+  },
+  {
+    "tokenName": "volcano9",
+    "varName": "--ant-volcano-9",
+    "unitlessValue": "#871400",
+    "valueInUnit": "#871400"
+  },
+  {
+    "tokenName": "volcano-10",
+    "varName": "--ant-volcano-10",
+    "unitlessValue": "#610b00",
+    "valueInUnit": "#610b00"
+  },
+  {
+    "tokenName": "volcano10",
+    "varName": "--ant-volcano-10",
+    "unitlessValue": "#610b00",
+    "valueInUnit": "#610b00"
+  },
+  {
+    "tokenName": "geekblue-1",
+    "varName": "--ant-geekblue-1",
+    "unitlessValue": "#f0f5ff",
+    "valueInUnit": "#f0f5ff"
+  },
+  {
+    "tokenName": "geekblue1",
+    "varName": "--ant-geekblue-1",
+    "unitlessValue": "#f0f5ff",
+    "valueInUnit": "#f0f5ff"
+  },
+  {
+    "tokenName": "geekblue-2",
+    "varName": "--ant-geekblue-2",
+    "unitlessValue": "#d6e4ff",
+    "valueInUnit": "#d6e4ff"
+  },
+  {
+    "tokenName": "geekblue2",
+    "varName": "--ant-geekblue-2",
+    "unitlessValue": "#d6e4ff",
+    "valueInUnit": "#d6e4ff"
+  },
+  {
+    "tokenName": "geekblue-3",
+    "varName": "--ant-geekblue-3",
+    "unitlessValue": "#adc6ff",
+    "valueInUnit": "#adc6ff"
+  },
+  {
+    "tokenName": "geekblue3",
+    "varName": "--ant-geekblue-3",
+    "unitlessValue": "#adc6ff",
+    "valueInUnit": "#adc6ff"
+  },
+  {
+    "tokenName": "geekblue-4",
+    "varName": "--ant-geekblue-4",
+    "unitlessValue": "#85a5ff",
+    "valueInUnit": "#85a5ff"
+  },
+  {
+    "tokenName": "geekblue4",
+    "varName": "--ant-geekblue-4",
+    "unitlessValue": "#85a5ff",
+    "valueInUnit": "#85a5ff"
+  },
+  {
+    "tokenName": "geekblue-5",
+    "varName": "--ant-geekblue-5",
+    "unitlessValue": "#597ef7",
+    "valueInUnit": "#597ef7"
+  },
+  {
+    "tokenName": "geekblue5",
+    "varName": "--ant-geekblue-5",
+    "unitlessValue": "#597ef7",
+    "valueInUnit": "#597ef7"
+  },
+  {
+    "tokenName": "geekblue-6",
+    "varName": "--ant-geekblue-6",
+    "unitlessValue": "#2f54eb",
+    "valueInUnit": "#2f54eb"
+  },
+  {
+    "tokenName": "geekblue6",
+    "varName": "--ant-geekblue-6",
+    "unitlessValue": "#2f54eb",
+    "valueInUnit": "#2f54eb"
+  },
+  {
+    "tokenName": "geekblue-7",
+    "varName": "--ant-geekblue-7",
+    "unitlessValue": "#1d39c4",
+    "valueInUnit": "#1d39c4"
+  },
+  {
+    "tokenName": "geekblue7",
+    "varName": "--ant-geekblue-7",
+    "unitlessValue": "#1d39c4",
+    "valueInUnit": "#1d39c4"
+  },
+  {
+    "tokenName": "geekblue-8",
+    "varName": "--ant-geekblue-8",
+    "unitlessValue": "#10239e",
+    "valueInUnit": "#10239e"
+  },
+  {
+    "tokenName": "geekblue8",
+    "varName": "--ant-geekblue-8",
+    "unitlessValue": "#10239e",
+    "valueInUnit": "#10239e"
+  },
+  {
+    "tokenName": "geekblue-9",
+    "varName": "--ant-geekblue-9",
+    "unitlessValue": "#061178",
+    "valueInUnit": "#061178"
+  },
+  {
+    "tokenName": "geekblue9",
+    "varName": "--ant-geekblue-9",
+    "unitlessValue": "#061178",
+    "valueInUnit": "#061178"
+  },
+  {
+    "tokenName": "geekblue-10",
+    "varName": "--ant-geekblue-10",
+    "unitlessValue": "#030852",
+    "valueInUnit": "#030852"
+  },
+  {
+    "tokenName": "geekblue10",
+    "varName": "--ant-geekblue-10",
+    "unitlessValue": "#030852",
+    "valueInUnit": "#030852"
+  },
+  {
+    "tokenName": "gold-1",
+    "varName": "--ant-gold-1",
+    "unitlessValue": "#fffbe6",
+    "valueInUnit": "#fffbe6"
+  },
+  {
+    "tokenName": "gold1",
+    "varName": "--ant-gold-1",
+    "unitlessValue": "#fffbe6",
+    "valueInUnit": "#fffbe6"
+  },
+  {
+    "tokenName": "gold-2",
+    "varName": "--ant-gold-2",
+    "unitlessValue": "#fff1b8",
+    "valueInUnit": "#fff1b8"
+  },
+  {
+    "tokenName": "gold2",
+    "varName": "--ant-gold-2",
+    "unitlessValue": "#fff1b8",
+    "valueInUnit": "#fff1b8"
+  },
+  {
+    "tokenName": "gold-3",
+    "varName": "--ant-gold-3",
+    "unitlessValue": "#ffe58f",
+    "valueInUnit": "#ffe58f"
+  },
+  {
+    "tokenName": "gold3",
+    "varName": "--ant-gold-3",
+    "unitlessValue": "#ffe58f",
+    "valueInUnit": "#ffe58f"
+  },
+  {
+    "tokenName": "gold-4",
+    "varName": "--ant-gold-4",
+    "unitlessValue": "#ffd666",
+    "valueInUnit": "#ffd666"
+  },
+  {
+    "tokenName": "gold4",
+    "varName": "--ant-gold-4",
+    "unitlessValue": "#ffd666",
+    "valueInUnit": "#ffd666"
+  },
+  {
+    "tokenName": "gold-5",
+    "varName": "--ant-gold-5",
+    "unitlessValue": "#ffc53d",
+    "valueInUnit": "#ffc53d"
+  },
+  {
+    "tokenName": "gold5",
+    "varName": "--ant-gold-5",
+    "unitlessValue": "#ffc53d",
+    "valueInUnit": "#ffc53d"
+  },
+  {
+    "tokenName": "gold-6",
+    "varName": "--ant-gold-6",
+    "unitlessValue": "#faad14",
+    "valueInUnit": "#faad14"
+  },
+  {
+    "tokenName": "gold6",
+    "varName": "--ant-gold-6",
+    "unitlessValue": "#faad14",
+    "valueInUnit": "#faad14"
+  },
+  {
+    "tokenName": "gold-7",
+    "varName": "--ant-gold-7",
+    "unitlessValue": "#d48806",
+    "valueInUnit": "#d48806"
+  },
+  {
+    "tokenName": "gold7",
+    "varName": "--ant-gold-7",
+    "unitlessValue": "#d48806",
+    "valueInUnit": "#d48806"
+  },
+  {
+    "tokenName": "gold-8",
+    "varName": "--ant-gold-8",
+    "unitlessValue": "#ad6800",
+    "valueInUnit": "#ad6800"
+  },
+  {
+    "tokenName": "gold8",
+    "varName": "--ant-gold-8",
+    "unitlessValue": "#ad6800",
+    "valueInUnit": "#ad6800"
+  },
+  {
+    "tokenName": "gold-9",
+    "varName": "--ant-gold-9",
+    "unitlessValue": "#874d00",
+    "valueInUnit": "#874d00"
+  },
+  {
+    "tokenName": "gold9",
+    "varName": "--ant-gold-9",
+    "unitlessValue": "#874d00",
+    "valueInUnit": "#874d00"
+  },
+  {
+    "tokenName": "gold-10",
+    "varName": "--ant-gold-10",
+    "unitlessValue": "#613400",
+    "valueInUnit": "#613400"
+  },
+  {
+    "tokenName": "gold10",
+    "varName": "--ant-gold-10",
+    "unitlessValue": "#613400",
+    "valueInUnit": "#613400"
+  },
+  {
+    "tokenName": "lime-1",
+    "varName": "--ant-lime-1",
+    "unitlessValue": "#fcffe6",
+    "valueInUnit": "#fcffe6"
+  },
+  {
+    "tokenName": "lime1",
+    "varName": "--ant-lime-1",
+    "unitlessValue": "#fcffe6",
+    "valueInUnit": "#fcffe6"
+  },
+  {
+    "tokenName": "lime-2",
+    "varName": "--ant-lime-2",
+    "unitlessValue": "#f4ffb8",
+    "valueInUnit": "#f4ffb8"
+  },
+  {
+    "tokenName": "lime2",
+    "varName": "--ant-lime-2",
+    "unitlessValue": "#f4ffb8",
+    "valueInUnit": "#f4ffb8"
+  },
+  {
+    "tokenName": "lime-3",
+    "varName": "--ant-lime-3",
+    "unitlessValue": "#eaff8f",
+    "valueInUnit": "#eaff8f"
+  },
+  {
+    "tokenName": "lime3",
+    "varName": "--ant-lime-3",
+    "unitlessValue": "#eaff8f",
+    "valueInUnit": "#eaff8f"
+  },
+  {
+    "tokenName": "lime-4",
+    "varName": "--ant-lime-4",
+    "unitlessValue": "#d3f261",
+    "valueInUnit": "#d3f261"
+  },
+  {
+    "tokenName": "lime4",
+    "varName": "--ant-lime-4",
+    "unitlessValue": "#d3f261",
+    "valueInUnit": "#d3f261"
+  },
+  {
+    "tokenName": "lime-5",
+    "varName": "--ant-lime-5",
+    "unitlessValue": "#bae637",
+    "valueInUnit": "#bae637"
+  },
+  {
+    "tokenName": "lime5",
+    "varName": "--ant-lime-5",
+    "unitlessValue": "#bae637",
+    "valueInUnit": "#bae637"
+  },
+  {
+    "tokenName": "lime-6",
+    "varName": "--ant-lime-6",
+    "unitlessValue": "#a0d911",
+    "valueInUnit": "#a0d911"
+  },
+  {
+    "tokenName": "lime6",
+    "varName": "--ant-lime-6",
+    "unitlessValue": "#a0d911",
+    "valueInUnit": "#a0d911"
+  },
+  {
+    "tokenName": "lime-7",
+    "varName": "--ant-lime-7",
+    "unitlessValue": "#7cb305",
+    "valueInUnit": "#7cb305"
+  },
+  {
+    "tokenName": "lime7",
+    "varName": "--ant-lime-7",
+    "unitlessValue": "#7cb305",
+    "valueInUnit": "#7cb305"
+  },
+  {
+    "tokenName": "lime-8",
+    "varName": "--ant-lime-8",
+    "unitlessValue": "#5b8c00",
+    "valueInUnit": "#5b8c00"
+  },
+  {
+    "tokenName": "lime8",
+    "varName": "--ant-lime-8",
+    "unitlessValue": "#5b8c00",
+    "valueInUnit": "#5b8c00"
+  },
+  {
+    "tokenName": "lime-9",
+    "varName": "--ant-lime-9",
+    "unitlessValue": "#3f6600",
+    "valueInUnit": "#3f6600"
+  },
+  {
+    "tokenName": "lime9",
+    "varName": "--ant-lime-9",
+    "unitlessValue": "#3f6600",
+    "valueInUnit": "#3f6600"
+  },
+  {
+    "tokenName": "lime-10",
+    "varName": "--ant-lime-10",
+    "unitlessValue": "#254000",
+    "valueInUnit": "#254000"
+  },
+  {
+    "tokenName": "lime10",
+    "varName": "--ant-lime-10",
+    "unitlessValue": "#254000",
+    "valueInUnit": "#254000"
+  },
+  {
+    "tokenName": "colorText",
+    "varName": "--ant-color-text",
+    "unitlessValue": "rgba(0,0,0,0.88)",
+    "valueInUnit": "rgba(0,0,0,0.88)"
+  },
+  {
+    "tokenName": "colorTextSecondary",
+    "varName": "--ant-color-text-secondary",
+    "unitlessValue": "rgba(0,0,0,0.65)",
+    "valueInUnit": "rgba(0,0,0,0.65)"
+  },
+  {
+    "tokenName": "colorTextTertiary",
+    "varName": "--ant-color-text-tertiary",
+    "unitlessValue": "rgba(0,0,0,0.45)",
+    "valueInUnit": "rgba(0,0,0,0.45)"
+  },
+  {
+    "tokenName": "colorTextQuaternary",
+    "varName": "--ant-color-text-quaternary",
+    "unitlessValue": "rgba(0,0,0,0.25)",
+    "valueInUnit": "rgba(0,0,0,0.25)"
+  },
+  {
+    "tokenName": "colorFill",
+    "varName": "--ant-color-fill",
+    "unitlessValue": "rgba(0,0,0,0.15)",
+    "valueInUnit": "rgba(0,0,0,0.15)"
+  },
+  {
+    "tokenName": "colorFillSecondary",
+    "varName": "--ant-color-fill-secondary",
+    "unitlessValue": "rgba(0,0,0,0.06)",
+    "valueInUnit": "rgba(0,0,0,0.06)"
+  },
+  {
+    "tokenName": "colorFillTertiary",
+    "varName": "--ant-color-fill-tertiary",
+    "unitlessValue": "rgba(0,0,0,0.04)",
+    "valueInUnit": "rgba(0,0,0,0.04)"
+  },
+  {
+    "tokenName": "colorFillQuaternary",
+    "varName": "--ant-color-fill-quaternary",
+    "unitlessValue": "rgba(0,0,0,0.02)",
+    "valueInUnit": "rgba(0,0,0,0.02)"
+  },
+  {
+    "tokenName": "colorBgSolid",
+    "varName": "--ant-color-bg-solid",
+    "unitlessValue": "rgb(0,0,0)",
+    "valueInUnit": "rgb(0,0,0)"
+  },
+  {
+    "tokenName": "colorBgSolidHover",
+    "varName": "--ant-color-bg-solid-hover",
+    "unitlessValue": "rgba(0,0,0,0.75)",
+    "valueInUnit": "rgba(0,0,0,0.75)"
+  },
+  {
+    "tokenName": "colorBgSolidActive",
+    "varName": "--ant-color-bg-solid-active",
+    "unitlessValue": "rgba(0,0,0,0.95)",
+    "valueInUnit": "rgba(0,0,0,0.95)"
+  },
+  {
+    "tokenName": "colorBgLayout",
+    "varName": "--ant-color-bg-layout",
+    "unitlessValue": "#f5f5f5",
+    "valueInUnit": "#f5f5f5"
+  },
+  {
+    "tokenName": "colorBgContainer",
+    "varName": "--ant-color-bg-container",
+    "unitlessValue": "#ffffff",
+    "valueInUnit": "#ffffff"
+  },
+  {
+    "tokenName": "colorBgElevated",
+    "varName": "--ant-color-bg-elevated",
+    "unitlessValue": "#ffffff",
+    "valueInUnit": "#ffffff"
+  },
+  {
+    "tokenName": "colorBgSpotlight",
+    "varName": "--ant-color-bg-spotlight",
+    "unitlessValue": "rgba(0,0,0,0.85)",
+    "valueInUnit": "rgba(0,0,0,0.85)"
+  },
+  {
+    "tokenName": "colorBgBlur",
+    "varName": "--ant-color-bg-blur",
+    "unitlessValue": "transparent",
+    "valueInUnit": "transparent"
+  },
+  {
+    "tokenName": "colorBorder",
+    "varName": "--ant-color-border",
+    "unitlessValue": "#d9d9d9",
+    "valueInUnit": "#d9d9d9"
+  },
+  {
+    "tokenName": "colorBorderSecondary",
+    "varName": "--ant-color-border-secondary",
+    "unitlessValue": "#f0f0f0",
+    "valueInUnit": "#f0f0f0"
+  },
+  {
+    "tokenName": "colorPrimaryBg",
+    "varName": "--ant-color-primary-bg",
+    "unitlessValue": "#e6f4ff",
+    "valueInUnit": "#e6f4ff"
+  },
+  {
+    "tokenName": "colorPrimaryBgHover",
+    "varName": "--ant-color-primary-bg-hover",
+    "unitlessValue": "#bae0ff",
+    "valueInUnit": "#bae0ff"
+  },
+  {
+    "tokenName": "colorPrimaryBorder",
+    "varName": "--ant-color-primary-border",
+    "unitlessValue": "#91caff",
+    "valueInUnit": "#91caff"
+  },
+  {
+    "tokenName": "colorPrimaryBorderHover",
+    "varName": "--ant-color-primary-border-hover",
+    "unitlessValue": "#69b1ff",
+    "valueInUnit": "#69b1ff"
+  },
+  {
+    "tokenName": "colorPrimaryHover",
+    "varName": "--ant-color-primary-hover",
+    "unitlessValue": "#4096ff",
+    "valueInUnit": "#4096ff"
+  },
+  {
+    "tokenName": "colorPrimaryActive",
+    "varName": "--ant-color-primary-active",
+    "unitlessValue": "#0958d9",
+    "valueInUnit": "#0958d9"
+  },
+  {
+    "tokenName": "colorPrimaryTextHover",
+    "varName": "--ant-color-primary-text-hover",
+    "unitlessValue": "#4096ff",
+    "valueInUnit": "#4096ff"
+  },
+  {
+    "tokenName": "colorPrimaryText",
+    "varName": "--ant-color-primary-text",
+    "unitlessValue": "#1677ff",
+    "valueInUnit": "#1677ff"
+  },
+  {
+    "tokenName": "colorPrimaryTextActive",
+    "varName": "--ant-color-primary-text-active",
+    "unitlessValue": "#0958d9",
+    "valueInUnit": "#0958d9"
+  },
+  {
+    "tokenName": "colorSuccessBg",
+    "varName": "--ant-color-success-bg",
+    "unitlessValue": "#f6ffed",
+    "valueInUnit": "#f6ffed"
+  },
+  {
+    "tokenName": "colorSuccessBgHover",
+    "varName": "--ant-color-success-bg-hover",
+    "unitlessValue": "#d9f7be",
+    "valueInUnit": "#d9f7be"
+  },
+  {
+    "tokenName": "colorSuccessBorder",
+    "varName": "--ant-color-success-border",
+    "unitlessValue": "#b7eb8f",
+    "valueInUnit": "#b7eb8f"
+  },
+  {
+    "tokenName": "colorSuccessBorderHover",
+    "varName": "--ant-color-success-border-hover",
+    "unitlessValue": "#95de64",
+    "valueInUnit": "#95de64"
+  },
+  {
+    "tokenName": "colorSuccessHover",
+    "varName": "--ant-color-success-hover",
+    "unitlessValue": "#95de64",
+    "valueInUnit": "#95de64"
+  },
+  {
+    "tokenName": "colorSuccessActive",
+    "varName": "--ant-color-success-active",
+    "unitlessValue": "#389e0d",
+    "valueInUnit": "#389e0d"
+  },
+  {
+    "tokenName": "colorSuccessTextHover",
+    "varName": "--ant-color-success-text-hover",
+    "unitlessValue": "#73d13d",
+    "valueInUnit": "#73d13d"
+  },
+  {
+    "tokenName": "colorSuccessText",
+    "varName": "--ant-color-success-text",
+    "unitlessValue": "#52c41a",
+    "valueInUnit": "#52c41a"
+  },
+  {
+    "tokenName": "colorSuccessTextActive",
+    "varName": "--ant-color-success-text-active",
+    "unitlessValue": "#389e0d",
+    "valueInUnit": "#389e0d"
+  },
+  {
+    "tokenName": "colorErrorBg",
+    "varName": "--ant-color-error-bg",
+    "unitlessValue": "#fff2f0",
+    "valueInUnit": "#fff2f0"
+  },
+  {
+    "tokenName": "colorErrorBgHover",
+    "varName": "--ant-color-error-bg-hover",
+    "unitlessValue": "#fff1f0",
+    "valueInUnit": "#fff1f0"
+  },
+  {
+    "tokenName": "colorErrorBgFilledHover",
+    "varName": "--ant-color-error-bg-filled-hover",
+    "unitlessValue": "#ffdfdc",
+    "valueInUnit": "#ffdfdc"
+  },
+  {
+    "tokenName": "colorErrorBgActive",
+    "varName": "--ant-color-error-bg-active",
+    "unitlessValue": "#ffccc7",
+    "valueInUnit": "#ffccc7"
+  },
+  {
+    "tokenName": "colorErrorBorder",
+    "varName": "--ant-color-error-border",
+    "unitlessValue": "#ffccc7",
+    "valueInUnit": "#ffccc7"
+  },
+  {
+    "tokenName": "colorErrorBorderHover",
+    "varName": "--ant-color-error-border-hover",
+    "unitlessValue": "#ffa39e",
+    "valueInUnit": "#ffa39e"
+  },
+  {
+    "tokenName": "colorErrorHover",
+    "varName": "--ant-color-error-hover",
+    "unitlessValue": "#ff7875",
+    "valueInUnit": "#ff7875"
+  },
+  {
+    "tokenName": "colorErrorActive",
+    "varName": "--ant-color-error-active",
+    "unitlessValue": "#d9363e",
+    "valueInUnit": "#d9363e"
+  },
+  {
+    "tokenName": "colorErrorTextHover",
+    "varName": "--ant-color-error-text-hover",
+    "unitlessValue": "#ff7875",
+    "valueInUnit": "#ff7875"
+  },
+  {
+    "tokenName": "colorErrorText",
+    "varName": "--ant-color-error-text",
+    "unitlessValue": "#ff4d4f",
+    "valueInUnit": "#ff4d4f"
+  },
+  {
+    "tokenName": "colorErrorTextActive",
+    "varName": "--ant-color-error-text-active",
+    "unitlessValue": "#d9363e",
+    "valueInUnit": "#d9363e"
+  },
+  {
+    "tokenName": "colorWarningBg",
+    "varName": "--ant-color-warning-bg",
+    "unitlessValue": "#fffbe6",
+    "valueInUnit": "#fffbe6"
+  },
+  {
+    "tokenName": "colorWarningBgHover",
+    "varName": "--ant-color-warning-bg-hover",
+    "unitlessValue": "#fff1b8",
+    "valueInUnit": "#fff1b8"
+  },
+  {
+    "tokenName": "colorWarningBorder",
+    "varName": "--ant-color-warning-border",
+    "unitlessValue": "#ffe58f",
+    "valueInUnit": "#ffe58f"
+  },
+  {
+    "tokenName": "colorWarningBorderHover",
+    "varName": "--ant-color-warning-border-hover",
+    "unitlessValue": "#ffd666",
+    "valueInUnit": "#ffd666"
+  },
+  {
+    "tokenName": "colorWarningHover",
+    "varName": "--ant-color-warning-hover",
+    "unitlessValue": "#ffd666",
+    "valueInUnit": "#ffd666"
+  },
+  {
+    "tokenName": "colorWarningActive",
+    "varName": "--ant-color-warning-active",
+    "unitlessValue": "#d48806",
+    "valueInUnit": "#d48806"
+  },
+  {
+    "tokenName": "colorWarningTextHover",
+    "varName": "--ant-color-warning-text-hover",
+    "unitlessValue": "#ffc53d",
+    "valueInUnit": "#ffc53d"
+  },
+  {
+    "tokenName": "colorWarningText",
+    "varName": "--ant-color-warning-text",
+    "unitlessValue": "#faad14",
+    "valueInUnit": "#faad14"
+  },
+  {
+    "tokenName": "colorWarningTextActive",
+    "varName": "--ant-color-warning-text-active",
+    "unitlessValue": "#d48806",
+    "valueInUnit": "#d48806"
+  },
+  {
+    "tokenName": "colorInfoBg",
+    "varName": "--ant-color-info-bg",
+    "unitlessValue": "#e6f4ff",
+    "valueInUnit": "#e6f4ff"
+  },
+  {
+    "tokenName": "colorInfoBgHover",
+    "varName": "--ant-color-info-bg-hover",
+    "unitlessValue": "#bae0ff",
+    "valueInUnit": "#bae0ff"
+  },
+  {
+    "tokenName": "colorInfoBorder",
+    "varName": "--ant-color-info-border",
+    "unitlessValue": "#91caff",
+    "valueInUnit": "#91caff"
+  },
+  {
+    "tokenName": "colorInfoBorderHover",
+    "varName": "--ant-color-info-border-hover",
+    "unitlessValue": "#69b1ff",
+    "valueInUnit": "#69b1ff"
+  },
+  {
+    "tokenName": "colorInfoHover",
+    "varName": "--ant-color-info-hover",
+    "unitlessValue": "#69b1ff",
+    "valueInUnit": "#69b1ff"
+  },
+  {
+    "tokenName": "colorInfoActive",
+    "varName": "--ant-color-info-active",
+    "unitlessValue": "#0958d9",
+    "valueInUnit": "#0958d9"
+  },
+  {
+    "tokenName": "colorInfoTextHover",
+    "varName": "--ant-color-info-text-hover",
+    "unitlessValue": "#4096ff",
+    "valueInUnit": "#4096ff"
+  },
+  {
+    "tokenName": "colorInfoText",
+    "varName": "--ant-color-info-text",
+    "unitlessValue": "#1677ff",
+    "valueInUnit": "#1677ff"
+  },
+  {
+    "tokenName": "colorInfoTextActive",
+    "varName": "--ant-color-info-text-active",
+    "unitlessValue": "#0958d9",
+    "valueInUnit": "#0958d9"
+  },
+  {
+    "tokenName": "colorLinkHover",
+    "varName": "--ant-color-link-hover",
+    "unitlessValue": "#69b1ff",
+    "valueInUnit": "#69b1ff"
+  },
+  {
+    "tokenName": "colorLinkActive",
+    "varName": "--ant-color-link-active",
+    "unitlessValue": "#0958d9",
+    "valueInUnit": "#0958d9"
+  },
+  {
+    "tokenName": "colorBgMask",
+    "varName": "--ant-color-bg-mask",
+    "unitlessValue": "rgba(0,0,0,0.45)",
+    "valueInUnit": "rgba(0,0,0,0.45)"
+  },
+  {
+    "tokenName": "colorWhite",
+    "varName": "--ant-color-white",
+    "unitlessValue": "#fff",
+    "valueInUnit": "#fff"
+  },
+  {
+    "tokenName": "fontSizeSM",
+    "varName": "--ant-font-size-sm",
+    "unitlessValue": 12,
+    "valueInUnit": "12px"
+  },
+  {
+    "tokenName": "fontSizeLG",
+    "varName": "--ant-font-size-lg",
+    "unitlessValue": 16,
+    "valueInUnit": "16px"
+  },
+  {
+    "tokenName": "fontSizeXL",
+    "varName": "--ant-font-size-xl",
+    "unitlessValue": 20,
+    "valueInUnit": "20px"
+  },
+  {
+    "tokenName": "fontSizeHeading1",
+    "varName": "--ant-font-size-heading-1",
+    "unitlessValue": 38,
+    "valueInUnit": "38px"
+  },
+  {
+    "tokenName": "fontSizeHeading2",
+    "varName": "--ant-font-size-heading-2",
+    "unitlessValue": 30,
+    "valueInUnit": "30px"
+  },
+  {
+    "tokenName": "fontSizeHeading3",
+    "varName": "--ant-font-size-heading-3",
+    "unitlessValue": 24,
+    "valueInUnit": "24px"
+  },
+  {
+    "tokenName": "fontSizeHeading4",
+    "varName": "--ant-font-size-heading-4",
+    "unitlessValue": 20,
+    "valueInUnit": "20px"
+  },
+  {
+    "tokenName": "fontSizeHeading5",
+    "varName": "--ant-font-size-heading-5",
+    "unitlessValue": 16,
+    "valueInUnit": "16px"
+  },
+  {
+    "tokenName": "lineHeight",
+    "varName": "--ant-line-height",
+    "unitlessValue": 1.5714285714285714,
+    "valueInUnit": "1.5714285714285714"
+  },
+  {
+    "tokenName": "lineHeightLG",
+    "varName": "--ant-line-height-lg",
+    "unitlessValue": 1.5,
+    "valueInUnit": "1.5"
+  },
+  {
+    "tokenName": "lineHeightSM",
+    "varName": "--ant-line-height-sm",
+    "unitlessValue": 1.6666666666666667,
+    "valueInUnit": "1.6666666666666667"
+  },
+  {
+    "tokenName": "fontHeight",
+    "varName": "--ant-font-height",
+    "unitlessValue": 22,
+    "valueInUnit": "22px"
+  },
+  {
+    "tokenName": "fontHeightLG",
+    "varName": "--ant-font-height-lg",
+    "unitlessValue": 24,
+    "valueInUnit": "24px"
+  },
+  {
+    "tokenName": "fontHeightSM",
+    "varName": "--ant-font-height-sm",
+    "unitlessValue": 20,
+    "valueInUnit": "20px"
+  },
+  {
+    "tokenName": "lineHeightHeading1",
+    "varName": "--ant-line-height-heading-1",
+    "unitlessValue": 1.2105263157894737,
+    "valueInUnit": "1.2105263157894737"
+  },
+  {
+    "tokenName": "lineHeightHeading2",
+    "varName": "--ant-line-height-heading-2",
+    "unitlessValue": 1.2666666666666666,
+    "valueInUnit": "1.2666666666666666"
+  },
+  {
+    "tokenName": "lineHeightHeading3",
+    "varName": "--ant-line-height-heading-3",
+    "unitlessValue": 1.3333333333333333,
+    "valueInUnit": "1.3333333333333333"
+  },
+  {
+    "tokenName": "lineHeightHeading4",
+    "varName": "--ant-line-height-heading-4",
+    "unitlessValue": 1.4,
+    "valueInUnit": "1.4"
+  },
+  {
+    "tokenName": "lineHeightHeading5",
+    "varName": "--ant-line-height-heading-5",
+    "unitlessValue": 1.5,
+    "valueInUnit": "1.5"
+  },
+  {
+    "tokenName": "controlHeightSM",
+    "varName": "--ant-control-height-sm",
+    "unitlessValue": 24,
+    "valueInUnit": "24px"
+  },
+  {
+    "tokenName": "controlHeightXS",
+    "varName": "--ant-control-height-xs",
+    "unitlessValue": 16,
+    "valueInUnit": "16px"
+  },
+  {
+    "tokenName": "controlHeightLG",
+    "varName": "--ant-control-height-lg",
+    "unitlessValue": 40,
+    "valueInUnit": "40px"
+  },
+  {
+    "tokenName": "motionDurationFast",
+    "varName": "--ant-motion-duration-fast",
+    "unitlessValue": "0.1s",
+    "valueInUnit": "0.1s"
+  },
+  {
+    "tokenName": "motionDurationMid",
+    "varName": "--ant-motion-duration-mid",
+    "unitlessValue": "0.2s",
+    "valueInUnit": "0.2s"
+  },
+  {
+    "tokenName": "motionDurationSlow",
+    "varName": "--ant-motion-duration-slow",
+    "unitlessValue": "0.3s",
+    "valueInUnit": "0.3s"
+  },
+  {
+    "tokenName": "lineWidthBold",
+    "varName": "--ant-line-width-bold",
+    "unitlessValue": 2,
+    "valueInUnit": "2px"
+  },
+  {
+    "tokenName": "borderRadiusXS",
+    "varName": "--ant-border-radius-xs",
+    "unitlessValue": 2,
+    "valueInUnit": "2px"
+  },
+  {
+    "tokenName": "borderRadiusSM",
+    "varName": "--ant-border-radius-sm",
+    "unitlessValue": 4,
+    "valueInUnit": "4px"
+  },
+  {
+    "tokenName": "borderRadiusLG",
+    "varName": "--ant-border-radius-lg",
+    "unitlessValue": 8,
+    "valueInUnit": "8px"
+  },
+  {
+    "tokenName": "borderRadiusOuter",
+    "varName": "--ant-border-radius-outer",
+    "unitlessValue": 4,
+    "valueInUnit": "4px"
+  },
+  {
+    "tokenName": "colorFillContent",
+    "varName": "--ant-color-fill-content",
+    "unitlessValue": "rgba(0,0,0,0.06)",
+    "valueInUnit": "rgba(0,0,0,0.06)"
+  },
+  {
+    "tokenName": "colorFillContentHover",
+    "varName": "--ant-color-fill-content-hover",
+    "unitlessValue": "rgba(0,0,0,0.15)",
+    "valueInUnit": "rgba(0,0,0,0.15)"
+  },
+  {
+    "tokenName": "colorFillAlter",
+    "varName": "--ant-color-fill-alter",
+    "unitlessValue": "rgba(0,0,0,0.02)",
+    "valueInUnit": "rgba(0,0,0,0.02)"
+  },
+  {
+    "tokenName": "colorBgContainerDisabled",
+    "varName": "--ant-color-bg-container-disabled",
+    "unitlessValue": "rgba(0,0,0,0.04)",
+    "valueInUnit": "rgba(0,0,0,0.04)"
+  },
+  {
+    "tokenName": "colorBorderBg",
+    "varName": "--ant-color-border-bg",
+    "unitlessValue": "#ffffff",
+    "valueInUnit": "#ffffff"
+  },
+  {
+    "tokenName": "colorSplit",
+    "varName": "--ant-color-split",
+    "unitlessValue": "rgba(5,5,5,0.06)",
+    "valueInUnit": "rgba(5,5,5,0.06)"
+  },
+  {
+    "tokenName": "colorTextPlaceholder",
+    "varName": "--ant-color-text-placeholder",
+    "unitlessValue": "rgba(0,0,0,0.25)",
+    "valueInUnit": "rgba(0,0,0,0.25)"
+  },
+  {
+    "tokenName": "colorTextDisabled",
+    "varName": "--ant-color-text-disabled",
+    "unitlessValue": "rgba(0,0,0,0.25)",
+    "valueInUnit": "rgba(0,0,0,0.25)"
+  },
+  {
+    "tokenName": "colorTextHeading",
+    "varName": "--ant-color-text-heading",
+    "unitlessValue": "rgba(0,0,0,0.88)",
+    "valueInUnit": "rgba(0,0,0,0.88)"
+  },
+  {
+    "tokenName": "colorTextLabel",
+    "varName": "--ant-color-text-label",
+    "unitlessValue": "rgba(0,0,0,0.65)",
+    "valueInUnit": "rgba(0,0,0,0.65)"
+  },
+  {
+    "tokenName": "colorTextDescription",
+    "varName": "--ant-color-text-description",
+    "unitlessValue": "rgba(0,0,0,0.45)",
+    "valueInUnit": "rgba(0,0,0,0.45)"
+  },
+  {
+    "tokenName": "colorTextLightSolid",
+    "varName": "--ant-color-text-light-solid",
+    "unitlessValue": "#fff",
+    "valueInUnit": "#fff"
+  },
+  {
+    "tokenName": "colorHighlight",
+    "varName": "--ant-color-highlight",
+    "unitlessValue": "#ff4d4f",
+    "valueInUnit": "#ff4d4f"
+  },
+  {
+    "tokenName": "colorBgTextHover",
+    "varName": "--ant-color-bg-text-hover",
+    "unitlessValue": "rgba(0,0,0,0.06)",
+    "valueInUnit": "rgba(0,0,0,0.06)"
+  },
+  {
+    "tokenName": "colorBgTextActive",
+    "varName": "--ant-color-bg-text-active",
+    "unitlessValue": "rgba(0,0,0,0.15)",
+    "valueInUnit": "rgba(0,0,0,0.15)"
+  },
+  {
+    "tokenName": "colorIcon",
+    "varName": "--ant-color-icon",
+    "unitlessValue": "rgba(0,0,0,0.45)",
+    "valueInUnit": "rgba(0,0,0,0.45)"
+  },
+  {
+    "tokenName": "colorIconHover",
+    "varName": "--ant-color-icon-hover",
+    "unitlessValue": "rgba(0,0,0,0.88)",
+    "valueInUnit": "rgba(0,0,0,0.88)"
+  },
+  {
+    "tokenName": "colorErrorOutline",
+    "varName": "--ant-color-error-outline",
+    "unitlessValue": "rgba(255,38,5,0.06)",
+    "valueInUnit": "rgba(255,38,5,0.06)"
+  },
+  {
+    "tokenName": "colorWarningOutline",
+    "varName": "--ant-color-warning-outline",
+    "unitlessValue": "rgba(255,215,5,0.1)",
+    "valueInUnit": "rgba(255,215,5,0.1)"
+  },
+  {
+    "tokenName": "fontSizeIcon",
+    "varName": "--ant-font-size-icon",
+    "unitlessValue": 12,
+    "valueInUnit": "12px"
+  },
+  {
+    "tokenName": "lineWidthFocus",
+    "varName": "--ant-line-width-focus",
+    "unitlessValue": 3,
+    "valueInUnit": "3px"
+  },
+  {
+    "tokenName": "controlOutlineWidth",
+    "varName": "--ant-control-outline-width",
+    "unitlessValue": 2,
+    "valueInUnit": "2px"
+  },
+  {
+    "tokenName": "controlInteractiveSize",
+    "varName": "--ant-control-interactive-size",
+    "unitlessValue": 16,
+    "valueInUnit": "16px"
+  },
+  {
+    "tokenName": "controlItemBgHover",
+    "varName": "--ant-control-item-bg-hover",
+    "unitlessValue": "rgba(0,0,0,0.04)",
+    "valueInUnit": "rgba(0,0,0,0.04)"
+  },
+  {
+    "tokenName": "controlItemBgActive",
+    "varName": "--ant-control-item-bg-active",
+    "unitlessValue": "#e6f4ff",
+    "valueInUnit": "#e6f4ff"
+  },
+  {
+    "tokenName": "controlItemBgActiveHover",
+    "varName": "--ant-control-item-bg-active-hover",
+    "unitlessValue": "#bae0ff",
+    "valueInUnit": "#bae0ff"
+  },
+  {
+    "tokenName": "controlItemBgActiveDisabled",
+    "varName": "--ant-control-item-bg-active-disabled",
+    "unitlessValue": "rgba(0,0,0,0.15)",
+    "valueInUnit": "rgba(0,0,0,0.15)"
+  },
+  {
+    "tokenName": "controlTmpOutline",
+    "varName": "--ant-control-tmp-outline",
+    "unitlessValue": "rgba(0,0,0,0.02)",
+    "valueInUnit": "rgba(0,0,0,0.02)"
+  },
+  {
+    "tokenName": "controlOutline",
+    "varName": "--ant-control-outline",
+    "unitlessValue": "rgba(5,145,255,0.1)",
+    "valueInUnit": "rgba(5,145,255,0.1)"
+  },
+  {
+    "tokenName": "fontWeightStrong",
+    "varName": "--ant-font-weight-strong",
+    "unitlessValue": 600,
+    "valueInUnit": "600"
+  },
+  {
+    "tokenName": "opacityLoading",
+    "varName": "--ant-opacity-loading",
+    "unitlessValue": 0.65,
+    "valueInUnit": "0.65"
+  },
+  {
+    "tokenName": "linkDecoration",
+    "varName": "--ant-link-decoration",
+    "unitlessValue": "none",
+    "valueInUnit": "none"
+  },
+  {
+    "tokenName": "linkHoverDecoration",
+    "varName": "--ant-link-hover-decoration",
+    "unitlessValue": "none",
+    "valueInUnit": "none"
+  },
+  {
+    "tokenName": "linkFocusDecoration",
+    "varName": "--ant-link-focus-decoration",
+    "unitlessValue": "none",
+    "valueInUnit": "none"
+  },
+  {
+    "tokenName": "controlPaddingHorizontal",
+    "varName": "--ant-control-padding-horizontal",
+    "unitlessValue": 12,
+    "valueInUnit": "12px"
+  },
+  {
+    "tokenName": "controlPaddingHorizontalSM",
+    "varName": "--ant-control-padding-horizontal-sm",
+    "unitlessValue": 8,
+    "valueInUnit": "8px"
+  },
+  {
+    "tokenName": "paddingXXS",
+    "varName": "--ant-padding-xxs",
+    "unitlessValue": 4,
+    "valueInUnit": "4px"
+  },
+  {
+    "tokenName": "paddingXS",
+    "varName": "--ant-padding-xs",
+    "unitlessValue": 8,
+    "valueInUnit": "8px"
+  },
+  {
+    "tokenName": "paddingSM",
+    "varName": "--ant-padding-sm",
+    "unitlessValue": 12,
+    "valueInUnit": "12px"
+  },
+  {
+    "tokenName": "padding",
+    "varName": "--ant-padding",
+    "unitlessValue": 16,
+    "valueInUnit": "16px"
+  },
+  {
+    "tokenName": "paddingMD",
+    "varName": "--ant-padding-md",
+    "unitlessValue": 20,
+    "valueInUnit": "20px"
+  },
+  {
+    "tokenName": "paddingLG",
+    "varName": "--ant-padding-lg",
+    "unitlessValue": 24,
+    "valueInUnit": "24px"
+  },
+  {
+    "tokenName": "paddingXL",
+    "varName": "--ant-padding-xl",
+    "unitlessValue": 32,
+    "valueInUnit": "32px"
+  },
+  {
+    "tokenName": "paddingContentHorizontalLG",
+    "varName": "--ant-padding-content-horizontal-lg",
+    "unitlessValue": 24,
+    "valueInUnit": "24px"
+  },
+  {
+    "tokenName": "paddingContentVerticalLG",
+    "varName": "--ant-padding-content-vertical-lg",
+    "unitlessValue": 16,
+    "valueInUnit": "16px"
+  },
+  {
+    "tokenName": "paddingContentHorizontal",
+    "varName": "--ant-padding-content-horizontal",
+    "unitlessValue": 16,
+    "valueInUnit": "16px"
+  },
+  {
+    "tokenName": "paddingContentVertical",
+    "varName": "--ant-padding-content-vertical",
+    "unitlessValue": 12,
+    "valueInUnit": "12px"
+  },
+  {
+    "tokenName": "paddingContentHorizontalSM",
+    "varName": "--ant-padding-content-horizontal-sm",
+    "unitlessValue": 16,
+    "valueInUnit": "16px"
+  },
+  {
+    "tokenName": "paddingContentVerticalSM",
+    "varName": "--ant-padding-content-vertical-sm",
+    "unitlessValue": 8,
+    "valueInUnit": "8px"
+  },
+  {
+    "tokenName": "marginXXS",
+    "varName": "--ant-margin-xxs",
+    "unitlessValue": 4,
+    "valueInUnit": "4px"
+  },
+  {
+    "tokenName": "marginXS",
+    "varName": "--ant-margin-xs",
+    "unitlessValue": 8,
+    "valueInUnit": "8px"
+  },
+  {
+    "tokenName": "marginSM",
+    "varName": "--ant-margin-sm",
+    "unitlessValue": 12,
+    "valueInUnit": "12px"
+  },
+  {
+    "tokenName": "margin",
+    "varName": "--ant-margin",
+    "unitlessValue": 16,
+    "valueInUnit": "16px"
+  },
+  {
+    "tokenName": "marginMD",
+    "varName": "--ant-margin-md",
+    "unitlessValue": 20,
+    "valueInUnit": "20px"
+  },
+  {
+    "tokenName": "marginLG",
+    "varName": "--ant-margin-lg",
+    "unitlessValue": 24,
+    "valueInUnit": "24px"
+  },
+  {
+    "tokenName": "marginXL",
+    "varName": "--ant-margin-xl",
+    "unitlessValue": 32,
+    "valueInUnit": "32px"
+  },
+  {
+    "tokenName": "marginXXL",
+    "varName": "--ant-margin-xxl",
+    "unitlessValue": 48,
+    "valueInUnit": "48px"
+  },
+  {
+    "tokenName": "boxShadow",
+    "varName": "--ant-box-shadow",
+    "unitlessValue": "\n      0 6px 16px 0 rgba(0, 0, 0, 0.08),\n      0 3px 6px -4px rgba(0, 0, 0, 0.12),\n      0 9px 28px 8px rgba(0, 0, 0, 0.05)\n    ",
+    "valueInUnit": "\n      0 6px 16px 0 rgba(0, 0, 0, 0.08),\n      0 3px 6px -4px rgba(0, 0, 0, 0.12),\n      0 9px 28px 8px rgba(0, 0, 0, 0.05)\n    "
+  },
+  {
+    "tokenName": "boxShadowSecondary",
+    "varName": "--ant-box-shadow-secondary",
+    "unitlessValue": "\n      0 6px 16px 0 rgba(0, 0, 0, 0.08),\n      0 3px 6px -4px rgba(0, 0, 0, 0.12),\n      0 9px 28px 8px rgba(0, 0, 0, 0.05)\n    ",
+    "valueInUnit": "\n      0 6px 16px 0 rgba(0, 0, 0, 0.08),\n      0 3px 6px -4px rgba(0, 0, 0, 0.12),\n      0 9px 28px 8px rgba(0, 0, 0, 0.05)\n    "
+  },
+  {
+    "tokenName": "boxShadowTertiary",
+    "varName": "--ant-box-shadow-tertiary",
+    "unitlessValue": "\n      0 1px 2px 0 rgba(0, 0, 0, 0.03),\n      0 1px 6px -1px rgba(0, 0, 0, 0.02),\n      0 2px 4px 0 rgba(0, 0, 0, 0.02)\n    ",
+    "valueInUnit": "\n      0 1px 2px 0 rgba(0, 0, 0, 0.03),\n      0 1px 6px -1px rgba(0, 0, 0, 0.02),\n      0 2px 4px 0 rgba(0, 0, 0, 0.02)\n    "
+  },
+  {
+    "tokenName": "boxShadowPopoverArrow",
+    "varName": "--ant-box-shadow-popover-arrow",
+    "unitlessValue": "2px 2px 5px rgba(0, 0, 0, 0.05)",
+    "valueInUnit": "2px 2px 5px rgba(0, 0, 0, 0.05)"
+  },
+  {
+    "tokenName": "boxShadowCard",
+    "varName": "--ant-box-shadow-card",
+    "unitlessValue": "\n      0 1px 2px -2px rgba(0,0,0,0.16),\n      0 3px 6px 0 rgba(0,0,0,0.12),\n      0 5px 12px 4px rgba(0,0,0,0.09)\n    ",
+    "valueInUnit": "\n      0 1px 2px -2px rgba(0,0,0,0.16),\n      0 3px 6px 0 rgba(0,0,0,0.12),\n      0 5px 12px 4px rgba(0,0,0,0.09)\n    "
+  },
+  {
+    "tokenName": "boxShadowDrawerRight",
+    "varName": "--ant-box-shadow-drawer-right",
+    "unitlessValue": "\n      -6px 0 16px 0 rgba(0, 0, 0, 0.08),\n      -3px 0 6px -4px rgba(0, 0, 0, 0.12),\n      -9px 0 28px 8px rgba(0, 0, 0, 0.05)\n    ",
+    "valueInUnit": "\n      -6px 0 16px 0 rgba(0, 0, 0, 0.08),\n      -3px 0 6px -4px rgba(0, 0, 0, 0.12),\n      -9px 0 28px 8px rgba(0, 0, 0, 0.05)\n    "
+  },
+  {
+    "tokenName": "boxShadowDrawerLeft",
+    "varName": "--ant-box-shadow-drawer-left",
+    "unitlessValue": "\n      6px 0 16px 0 rgba(0, 0, 0, 0.08),\n      3px 0 6px -4px rgba(0, 0, 0, 0.12),\n      9px 0 28px 8px rgba(0, 0, 0, 0.05)\n    ",
+    "valueInUnit": "\n      6px 0 16px 0 rgba(0, 0, 0, 0.08),\n      3px 0 6px -4px rgba(0, 0, 0, 0.12),\n      9px 0 28px 8px rgba(0, 0, 0, 0.05)\n    "
+  },
+  {
+    "tokenName": "boxShadowDrawerUp",
+    "varName": "--ant-box-shadow-drawer-up",
+    "unitlessValue": "\n      0 6px 16px 0 rgba(0, 0, 0, 0.08),\n      0 3px 6px -4px rgba(0, 0, 0, 0.12),\n      0 9px 28px 8px rgba(0, 0, 0, 0.05)\n    ",
+    "valueInUnit": "\n      0 6px 16px 0 rgba(0, 0, 0, 0.08),\n      0 3px 6px -4px rgba(0, 0, 0, 0.12),\n      0 9px 28px 8px rgba(0, 0, 0, 0.05)\n    "
+  },
+  {
+    "tokenName": "boxShadowDrawerDown",
+    "varName": "--ant-box-shadow-drawer-down",
+    "unitlessValue": "\n      0 -6px 16px 0 rgba(0, 0, 0, 0.08),\n      0 -3px 6px -4px rgba(0, 0, 0, 0.12),\n      0 -9px 28px 8px rgba(0, 0, 0, 0.05)\n    ",
+    "valueInUnit": "\n      0 -6px 16px 0 rgba(0, 0, 0, 0.08),\n      0 -3px 6px -4px rgba(0, 0, 0, 0.12),\n      0 -9px 28px 8px rgba(0, 0, 0, 0.05)\n    "
+  },
+  {
+    "tokenName": "boxShadowTabsOverflowLeft",
+    "varName": "--ant-box-shadow-tabs-overflow-left",
+    "unitlessValue": "inset 10px 0 8px -8px rgba(0, 0, 0, 0.08)",
+    "valueInUnit": "inset 10px 0 8px -8px rgba(0, 0, 0, 0.08)"
+  },
+  {
+    "tokenName": "boxShadowTabsOverflowRight",
+    "varName": "--ant-box-shadow-tabs-overflow-right",
+    "unitlessValue": "inset -10px 0 8px -8px rgba(0, 0, 0, 0.08)",
+    "valueInUnit": "inset -10px 0 8px -8px rgba(0, 0, 0, 0.08)"
+  },
+  {
+    "tokenName": "boxShadowTabsOverflowTop",
+    "varName": "--ant-box-shadow-tabs-overflow-top",
+    "unitlessValue": "inset 0 10px 8px -8px rgba(0, 0, 0, 0.08)",
+    "valueInUnit": "inset 0 10px 8px -8px rgba(0, 0, 0, 0.08)"
+  },
+  {
+    "tokenName": "boxShadowTabsOverflowBottom",
+    "varName": "--ant-box-shadow-tabs-overflow-bottom",
+    "unitlessValue": "inset 0 -10px 8px -8px rgba(0, 0, 0, 0.08)",
+    "valueInUnit": "inset 0 -10px 8px -8px rgba(0, 0, 0, 0.08)"
+  }
+]

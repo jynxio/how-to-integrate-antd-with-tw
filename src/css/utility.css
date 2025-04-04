@@ -1,0 +1,43 @@
+@utility z-zIndexBase {
+  z-index: var(--ant-z-index-base);
+}
+
+@utility z-zIndexPopupBase {
+  z-index: var(--ant-z-index-popup-base);
+}
+
+@utility opacity-opacityImage {
+  opacity: var(--ant-opacity-image);
+}
+
+@utility opacity-opacityLoading {
+  opacity: var(--ant-opacity-loading);
+}
+
+@utility duration-motionDurationFast {
+  transition-duration: var(--ant-motion-duration-fast);
+}
+
+@utility duration-motionDurationMid {
+  transition-duration: var(--ant-motion-duration-mid);
+}
+
+@utility duration-motionDurationSlow {
+  transition-duration: var(--ant-motion-duration-slow);
+}
+
+@utility border-lineType {
+  border-style: var(--ant-line-type);
+}
+
+@utility border-linkDecoration {
+  border-style: var(--ant-link-decoration);
+}
+
+@utility border-linkHoverDecoration {
+  border-style: var(--ant-link-hover-decoration);
+}
+
+@utility decoration-linkFocusDecoration {
+  text-decoration-style: var(--ant-link-focus-decoration);
+}

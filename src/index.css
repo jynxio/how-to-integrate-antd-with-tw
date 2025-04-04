@@ -1,0 +1,17 @@
+/* Cascade */
+@layer base, theme, components, utilities, antd;
+
+/* Base tw configuration */
+@import 'tailwindcss/preflight.css' layer(base);
+@import 'tailwindcss/theme.css' layer(theme);
+@import 'tailwindcss/utilities.css' layer(utilities);
+
+/* Extra tw configuration */
+@import '@/css/theme.css';
+@import '@/css/utility.css';
+@import '@/css/redirect.css';
+
+html,
+body {
+  background-color: #000;
+}

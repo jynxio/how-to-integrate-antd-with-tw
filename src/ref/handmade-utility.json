@@ -1,0 +1,13 @@
+{
+  "z": { "propName": "z-index", "tokenNames": ["zIndexBase", "zIndexPopupBase"] },
+  "opacity": { "propName": "opacity", "tokenNames": ["opacityImage", "opacityLoading"] },
+  "duration": {
+    "propName": "transition-duration",
+    "tokenNames": ["motionDurationFast", "motionDurationMid", "motionDurationSlow"]
+  },
+  "border": {
+    "propName": "border-style",
+    "tokenNames": ["lineType", "linkDecoration", "linkHoverDecoration"]
+  },
+  "decoration": { "propName": "text-decoration-style", "tokenNames": ["linkFocusDecoration"] }
+}
