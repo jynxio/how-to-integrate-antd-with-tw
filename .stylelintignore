@@ -1,0 +1,9 @@
+# Development
+**/.git
+**/.next
+**/node_modules
+
+# Production
+**/out
+**/dist
+**/build

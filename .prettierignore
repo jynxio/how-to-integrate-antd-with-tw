@@ -1,0 +1,11 @@
+# Development
+**/.next
+
+# Production
+**/out
+**/dist
+**/build
+
+# Markdown
+**/*.md
+**/*.mdx
